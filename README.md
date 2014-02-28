@@ -12,7 +12,7 @@ Install through NPM
     
 OR
 
-* Download [node_download.js](node_download.js)
+* Download [node_download.js](lib/node_download.js)
 * Include in project
 
 ### Example usage
